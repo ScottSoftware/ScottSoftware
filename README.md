@@ -6,15 +6,17 @@
 
 ## My Repositories
 I opened this GitHub account and my repositories to demonstrate some of my programming skills through
-smaller chunks of free-use code. I don't much care if others use the code in here for their own
-purposes, regardless of whether they make money off from it or not. I'm just glad for people finding 
-good uses for my code since I was never good at it. Feel free to look around and use what you need.
+smaller chunks of code. I don't much care if others use the code in here for their own
+purposes, regardless of whether they make money off from it or not, unless it's otherwise stated in 
+the repositories license file. I'm glad to discuss any arrangements for code licensing or purchasing.
+Feel free to look around and test what you need.
 
 ## If you find my code especially useful
-I don't need compensation or the like on my code, nor do I need you to ask permission to use my code.
-It's free to all who may see a need in it, though without warranty. However if you see fit to donate to
-me, my CashApp is probably the best place to send any donations. Donating to me will help me to continue
-focusing on software development, and may even pay for my next meal. So thank you, even if you don't donate.
+I don't need compensation or the like on most of my code, nor do I need you to ask permission to use my
+unlicensed code. Most of it is free to all who may see a need in it, though without warranty. However if 
+you see fit to donate to me, my CashApp is probably the best place to send any donations. Donating to me 
+will help me to continue focusing on software development, and may even pay for my next meal. So thank you, 
+even if you don't donate or purchase.
 
 ## My story so far
 I've been programming since age 12, after moving out at 17 I nabbed myself an apartment, lived through
@@ -23,6 +25,7 @@ I live out of my camper, traveling wherever I see fit and developing software as
 to be my everything, the only constant I have. I enjoy everything I do on them, and will for years to come.
 
 ## Contact me at scottsoftware@proton.me, CashApp $StepperDox
+## Any and all code that lacks a LICENSE.md file is free to use as you see fit, without credit
 
 <!---
 ScottSoftware/ScottSoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
