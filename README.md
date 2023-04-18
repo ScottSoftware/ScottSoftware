@@ -14,7 +14,7 @@ Feel free to look around and test what you need.
 ## If you find my code especially useful
 I don't need compensation or the like on most of my code, nor do I need you to ask permission to use my
 unlicensed code. Most of it is free to all who may see a need in it, though without warranty. However if 
-you see fit to donate to me, my CashApp is probably the best place to send any donations. Donating to me 
+you see fit to donate to me, my email can be found below so you can get in touch. Donating to me 
 will help me to continue focusing on software development, and may even pay for my next meal. So thank you, 
 even if you don't donate or purchase.
 
@@ -24,10 +24,5 @@ two girlfriends coming and going, then at 19, I lost my job, apartment, and almo
 I live out of my camper, traveling wherever I see fit and developing software as I go. Computers seem
 to be my everything, the only constant I have. I enjoy everything I do on them, and will for years to come.
 
-## Contact me at scottsoftware@proton.me, CashApp $StepperDox
+## Contact me at scottsoftware@proton.me
 ## Any and all code that lacks a LICENSE.md file is free to use as you see fit, without credit
-
-<!---
-ScottSoftware/ScottSoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
